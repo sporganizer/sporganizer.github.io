@@ -1,10 +1,10 @@
 body {
-	background: #99bbff;
+	background: #e6eeff;
 }
 
 
 .blogentry {
-	font-family: "times new roman";
+	font-family: "georgia";
 	font-size: 16px;
 	margin: auto;
 }
@@ -18,5 +18,5 @@ h1 {
 
 
 h2 {
-	font-family: "cursive";
+	font-family: 'cursive';
 }
