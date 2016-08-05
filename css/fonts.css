@@ -1,0 +1,30 @@
+body {
+	background: #e6eeff;
+}
+
+
+.blogentry {
+	font-family: "georgia";
+	font-size: 16px;
+	margin: auto;
+}
+
+#Sporganizer {
+	font-family: "Brush Script M7";
+}
+
+
+h1 {
+	text-align: center;
+	font-family: 'Tangerine';
+	font-size: 50px;
+}
+
+
+h2 {
+	font-family: 'cursive';
+}
+
+h3 {
+	font-family: 'cursive';
+}
